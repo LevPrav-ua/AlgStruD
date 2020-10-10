@@ -1,0 +1,2 @@
+D:\УЧЁБА\ЛАБЫ\3 сем\АлгоСы\CycleBuffer\Debug\CycleBuffer.exe
+D:\УЧЁБА\ЛАБЫ\3 сем\АлгоСы\CycleBuffer\Debug\CycleBuffer.pdb
